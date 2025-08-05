@@ -16,33 +16,12 @@ Here are some ideas to get you started:
 -->
 ##### My Social media
 
-![https://instagram.com/maulanaaae_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![[https://instagram.com/maulanaaae_](https://www.instagram.com/maulanaaae_/profilecard/?igsh=MXJqZDdjaDlwY3hkOQ==)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://tiktok.com/maulanaaae_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![https://www.linkedin.com/in/maulanaaae_/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,laravel,wordpress)](https://skillicons.dev) 
-
-###
-<img src="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ademaulanaa/ademaulanaa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ###
 # SPK SMART & VIKTOR- Sistem Pendukung Keputusan Rekomendasi Parfum
